@@ -10,6 +10,8 @@ alembic = "*"
 python-dotenv = "*"
 psycopg2-binary = "*"
 typing-extensions = "*"
+pika = "*"
+requests = "*"
 
 [dev-packages]
 

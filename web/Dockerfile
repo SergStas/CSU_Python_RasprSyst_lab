@@ -10,6 +10,6 @@ RUN pipenv sync
 
 EXPOSE 8000
 
-COPY web /web
+COPY . /web
 
 CMD ./run.sh
